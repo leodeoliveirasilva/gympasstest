@@ -1,5 +1,4 @@
-const moment = require('moment')
-
+//Function to sum total race time
 const sumMinutes = (initTime, timeString) => {
   const time = timeString.split(new RegExp('[-+()*/:.? ]', 'g'))
   initTime.add(time[0], 'minutes')
