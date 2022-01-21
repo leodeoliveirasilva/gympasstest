@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
-    "log4js": "^4.5.1",
+    "log4js": "^6.4.0",
     "moment": "^2.24.0",
     "safe-log-reader": "^1.0.8"
   }
